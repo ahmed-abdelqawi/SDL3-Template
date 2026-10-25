@@ -2,8 +2,6 @@
 
 A cross platform template for [SDL3](https://www.libsdl.org/).
 
----
-
 ## How to run.
 
 Make sure that you have [CMake](https://cmake.org/) and [make](https://www.gnu.org/software/make/) or any build tool that you like using (just remember to configure cmake to work with it).
